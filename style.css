@@ -1,0 +1,21 @@
+
+    body{
+        margin: 0;
+        background-color: green;
+    }
+    .container {
+        display: flex;
+        flex-direction: row;
+       /* this is our primary axis */
+        justify-content: center;
+        align-items: center;
+        
+
+        height: 100vh;
+    }
+
+    #wrapper{
+       border: 1px black solid;
+       background-color:blanchedalmond;
+       
+    }
